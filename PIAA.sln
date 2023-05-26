@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIAA", "PIAA.csproj", "{8C90C327-AC12-49EE-A9FE-00D5BEDFEB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C90C327-AC12-49EE-A9FE-00D5BEDFEB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C90C327-AC12-49EE-A9FE-00D5BEDFEB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C90C327-AC12-49EE-A9FE-00D5BEDFEB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C90C327-AC12-49EE-A9FE-00D5BEDFEB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C78221-15F2-42A1-8DE8-2468B14FD7BA}
+	EndGlobalSection
+EndGlobal

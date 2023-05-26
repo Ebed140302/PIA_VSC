@@ -1,0 +1,86 @@
+nullnull[
+  {
+    "Codigo": "003",
+    "Nombre": "ARTICULO 3",
+    "Precio": 300.0,
+    "Cantidad": 25,
+    "ImporteTotal": 7500.0
+  }
+][
+  {
+    "Codigo": "001",
+    "Nombre": "ARTICULO 1",
+    "Precio": 100.0,
+    "Cantidad": 50,
+    "ImporteTotal": 5000.0
+  }
+][
+  {
+    "Codigo": "001",
+    "Nombre": "ARTICULO 1",
+    "Precio": 100.0,
+    "Cantidad": 50,
+    "ImporteTotal": 5000.0
+  }
+][
+  {
+    "Codigo": "003",
+    "Nombre": "ARTICULO 3",
+    "Precio": 300.0,
+    "Cantidad": 3,
+    "ImporteTotal": 900.0
+  }
+][
+  {
+    "Codigo": "011",
+    "Nombre": "Limonada",
+    "Precio": 20.0,
+    "Cantidad": 1,
+    "ImporteTotal": 20.0
+  }
+][
+  {
+    "Codigo": "003",
+    "Nombre": "Orden de tacos arabes",
+    "Precio": 80.0,
+    "Cantidad": 2,
+    "ImporteTotal": 160.0
+  }
+][
+  {
+    "Codigo": "012",
+    "Nombre": "Agua",
+    "Precio": 15.0,
+    "Cantidad": 5,
+    "ImporteTotal": 75.0
+  },
+  {
+    "Codigo": "008",
+    "Nombre": "Burrito de pastor",
+    "Precio": 90.0,
+    "Cantidad": 2,
+    "ImporteTotal": 180.0
+  },
+  {
+    "Codigo": "007",
+    "Nombre": "Burrito de arrachera",
+    "Precio": 90.0,
+    "Cantidad": 3,
+    "ImporteTotal": 270.0
+  }
+][
+  {
+    "Codigo": "005",
+    "Nombre": "Hamburguesa doble",
+    "Precio": 90.0,
+    "Cantidad": 2,
+    "ImporteTotal": 180.0
+  },
+  {
+    "Codigo": "009",
+    "Nombre": "Burrito mixto",
+    "Precio": 90.0,
+    "Cantidad": 2,
+    "ImporteTotal": 180.0
+  }
+]
